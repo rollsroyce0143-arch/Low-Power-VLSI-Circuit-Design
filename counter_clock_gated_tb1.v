@@ -1,4 +1,4 @@
-module counter_clock_gated_tb;
+module counter_clock_gated_tb1;
 
 reg clk;
 reg rst;
